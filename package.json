@@ -1,0 +1,19 @@
+{
+  "name": "DockerTraining",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemimaabu/docker-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemimaabu/docker-training/issues"
+  },
+  "homepage": "https://github.com/jemimaabu/docker-training#readme"
+}
