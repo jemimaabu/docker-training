@@ -1,6 +1,6 @@
 # docker-training
 
-Build: 
+To build: 
 ```
 docker build -t html_static_image .
 ```
