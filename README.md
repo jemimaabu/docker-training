@@ -5,7 +5,7 @@ To build:
 docker build -t html_static_image .
 ```
 
-Run:
+To run:
 ```
 docker container run --detach -p 80:80 html_static_image
 ```
