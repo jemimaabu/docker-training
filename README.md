@@ -10,7 +10,7 @@ To run locally:
 docker container run --detach -p 80:80 html_static_image
 ```
 
-To confirm build, run:
+To confirm run:
 ```
 curl localhost:80
 ```
